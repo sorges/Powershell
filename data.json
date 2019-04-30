@@ -8,5 +8,12 @@
 			"fechaHasta" : "01/01/2019"
 
 		}
+				{
+			"url" : "https://www.gtsa.es/",
+			"dominio" : "gtsa",
+			"fechaDesde" : "30/02/2018",
+			"fechaHasta" : "01/01/2019"
+
+		}
 	]
 }
