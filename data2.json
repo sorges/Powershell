@@ -2,17 +2,13 @@
 	"parametrosVolcado":
 	[
 		{
-			"url" : "https://www.gtsa.es/",
-			"dominio" : "gtsa",
-			"fechaDesde" : "30/09/2018",
-			"fechaHasta" : "01/01/2019"
+			"id" : "12"
+			"url" : "https://www.gtsa.es/"
 
 		},
     {
-			"url" : "http://www.moyvo.es/",
-			"dominio" : "moyvo",
-			"fechaDesde" : "30/09/2018",
-			"fechaHasta" : "01/01/2019"
+	    		"id" : "55"
+			"url" : "http://www.moyvo.es/"
 
 		}
 	]
